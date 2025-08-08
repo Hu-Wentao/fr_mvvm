@@ -1,7 +1,7 @@
 name: fr_env_mvvm
 description: "FlowR: Env-MVVM"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Hu-Wentao/fr_mvvm
 
 environment:
   sdk: '>=3.2.4 <4.0.0'
